@@ -1,0 +1,18 @@
+{
+  "name": "chashitsu-trading-co",
+  "version": "1.0.0",
+  "description": "Chashitsu Trading Co. storefront + GraphQL API -- HackVerse GCS CTF challenge 3.",
+  "private": true,
+  "main": "server.js",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^5.2.1",
+    "graphql": "^17.0.2"
+  }
+}
